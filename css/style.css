@@ -2,6 +2,12 @@
     background: transparent;
 }
 
+li::marker {
+    color: #49b1f5;
+    font-weight: 600;
+    font-size: 1.05em;
+}
+
 #article-container h1:before,
 #article-container h2:before,
 #article-container h3:before,
